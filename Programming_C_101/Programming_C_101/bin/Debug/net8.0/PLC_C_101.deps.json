@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PLC_C_101/1.0.0": {
+        "runtime": {
+          "PLC_C_101.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PLC_C_101/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
